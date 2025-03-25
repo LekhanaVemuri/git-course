@@ -2,3 +2,5 @@ Hi...Get the user back
 process the data
 
 Create an avatar for user
+
+login and logout
